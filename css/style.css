@@ -1,0 +1,45 @@
+body { 
+font-family: monospace;
+  padding: 20px 30px;
+    max-width: 1000px;
+  margin: 0 auto;
+  background: aquamarine
+}
+
+h1 {
+  text-align: center;
+  color: navy;
+}
+
+.lesson {
+  background-color:lightslategrey;
+    padding: 15px;
+  border-radius: 30px;
+    margin: 20px auto;
+}
+
+h2 {
+  margin: 10px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+    }
+
+.concept {
+  background-color: skyblue;
+  margin: 20px;
+    border-radius: 15px;
+  padding: 3px 10px
+}
+
+.concept-title {
+  font-size: 20px;
+  text-align: center;
+  color: salmon;
+  }
+
+.concept-description {
+  font-weight: lighter;
+  margin: 10px;
+}
+
